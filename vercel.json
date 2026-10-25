@@ -1,0 +1,40 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/apply",
+      "destination": "/apply/index.html"
+    },
+    {
+      "source": "/tracking",
+      "destination": "/tracking/index.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact/index.html"
+    },
+    {
+      "source": "/leadership",
+      "destination": "/leadership/index.html"
+    },
+    {
+      "source": "/guidelines",
+      "destination": "/guidelines/index.html"
+    },
+    {
+      "source": "/privacy",
+      "destination": "/privacy/index.html"
+    },
+    {
+      "source": "/terms",
+      "destination": "/terms/index.html"
+    },
+    {
+      "source": "/disclaimer",
+      "destination": "/disclaimer/index.html"
+    }
+  ]
+}
